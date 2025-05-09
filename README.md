@@ -1,3 +1,5 @@
 # AyED
-Uriel Rojas K1043
-g++ --versión
+Nombre: Uriel
+Apellido: Rojas 
+Codigo de comisión: K1043
+versión de g++:
